@@ -1,7 +1,5 @@
 # Diwali-Sales-Analysis-Using-Python
 
-#### -- Project Status: [Completed]
-
 ## Project Intro/Objective
 The purpose of this project is to extract meaningful insights which helps to make informed decisions based on the examination and interpretation of the raw data.
 
