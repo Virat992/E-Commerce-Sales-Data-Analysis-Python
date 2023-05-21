@@ -31,4 +31,4 @@ Based on the finding's the organization can make informed decision's about their
 
 To extract the useful insights from the large dataset powerful open source library Numpy was used to create dataframe and perfrom exploratory analysis.
 
-Matplotlib and Seaborn used for data visualization of the analyzed data.
+Matplotlib and Seaborn were used for data visualization of the analyzed data.
