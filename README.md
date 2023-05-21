@@ -18,7 +18,23 @@ The purpose of this project is to extract meaningful insights which helps to mak
 * Jupyter
 
 ## Project Description
-This project is developed to extract the useful information from the raw data of an e-commerce organization to figure out from which age group of customer's belongs to which which state with what marital status and from which working sector are the highest buyers so that the organization can make informed decision's about their inventory management, product portfolio etc in the future. 
+
+This project is developed to extract the useful information from the raw data of an e-commerce organization. 
+
+The main objective is to figure out highest number's of buyers from the following three catagories:
+
+1. Age Group
+2. Marital Status
+3. Working Sector 
+
+Based on the finding's the organization can make informed decision's about their inventory management, product portfolio etc.. in the future to increase their sales and profit. 
+
+To extract the useful insights from the large dataset powerful open source library Numpy was used to create dataframe and perfrom 
+
+
+
+
+
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ## Needs of this project
