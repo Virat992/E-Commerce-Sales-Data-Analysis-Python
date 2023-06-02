@@ -1,4 +1,4 @@
-# Diwali_Sales_Data_Analysis_Using_Python
+# E Commerce Sales Data Exploratory Analysis
 
 ## Project Intro/Objective
 The purpose of this project is to extract meaningful insights which helps to make informed decisions based on the examination and interpretation of the raw data.
