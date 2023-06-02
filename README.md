@@ -1,4 +1,5 @@
 # E Commerce Sales Data Exploratory Analysis
+## by Virat Gajjar
 
 ## Project Intro/Objective
 The purpose of this project is to extract meaningful insights which helps to make informed decisions based on the examination and interpretation of the raw data.
@@ -32,3 +33,6 @@ Based on the finding's the organization can make informed decision's about their
 To extract the useful insights from the large dataset powerful open source library Numpy was used to create dataframe and perfrom exploratory analysis.
 
 Matplotlib and Seaborn were used for data visualization of the analyzed data.
+
+
+
