@@ -35,6 +35,7 @@ To extract the useful insights from the large dataset powerful open source libra
 Matplotlib and Seaborn were used for data visualization of the analyzed data.
 
 ## Dataset
-The data consists of information regarding 11,240 orders placed on an e commerce website of various houshold items during the time of diwali sale. The dataset includes 15 features ('User_Id', 'Customer_name', 'Product_ID', 'Gender', 'Age Group', 'age','Marital_Status', 'State', 'Zone', 'Occupation', 'Product_category', 'Orders', 'Amount','Status', 'Unnamed'). Upon proper data cleaning, the dataset was reduced and feature-engineered into 11 columns with the new columns being:
+The data consists of information regarding 11,240 orders placed on an e commerce website of various houshold items during the time of diwali sale. The dataset includes 14 features ('User_Id', 'Customer_name', 'Product_ID', 'Gender', 'age','Marital_Status', 'State', 'Zone', 'Occupation', 'Product_category', 'Orders', 'Amount','Status', 'Unnamed'). Upon proper data cleaning, the dataset was reduced and feature-engineered into 13 columns with the new columns being:
+Age Group: Places the indepedent age value in a range so that we can easily plot age on graph.
 
 
