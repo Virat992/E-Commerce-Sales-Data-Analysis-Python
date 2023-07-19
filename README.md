@@ -2,7 +2,7 @@
 ## by Virat Gajjar
 
 ## Overview
-E Commerce Sales Data Exploratory Analysis:This document examines a dataset that contains details about orders placed by customers across India on an e-commerce website during a Diwali festival sale.
+E Commerce Sales Data Exploratory Analysis: This document examines a dataset that contains details about orders placed by customers across India on an e-commerce website during a Diwali festival sale.
 
 ### Methods Used
 * Exploratory Data Analysis
@@ -34,5 +34,7 @@ To extract the useful insights from the large dataset powerful open source libra
 
 Matplotlib and Seaborn were used for data visualization of the analyzed data.
 
+## Dataset
+The data consists of information regarding 11,240 orders placed on an e commerce website of various houshold items during the time of diwali sale. The dataset includes 15 features ('User_Id', 'Customer_name', 'Product_ID', 'Gender', 'Age Group', 'age','Marital_Status', 'State', 'Zone', 'Occupation', 'Product_category', 'Orders', 'Amount','Status', 'Unnamed'). Upon proper data cleaning, the dataset was reduced and feature-engineered into 11 columns with the new columns being:
 
 
