@@ -1,8 +1,8 @@
 # E Commerce Sales Data Exploratory Analysis
 ## by Virat Gajjar
 
-## Project Intro/Objective
-The purpose of this project is to extract meaningful insights which helps to make informed decisions based on the examination and interpretation of the raw data.
+## Overview
+E Commerce Sales Data Exploratory Analysis:This document examines a dataset that contains details about orders placed by customers across India on an e-commerce website during a Diwali festival sale.
 
 ### Methods Used
 * Exploratory Data Analysis
