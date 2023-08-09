@@ -39,5 +39,4 @@ The data consists of information regarding 11,240 orders placed on an e commerce
 Age Group: Places the indepedent age value in a range so that we can easily plot age on graph.
 
 ## Summery of Findigs
-![name-of-you-image](https://github.com/Virat992/Data-Analysis-Python/blob/main/Gender.png)
-
+![name-of-you-image](https://github.com/Virat992/Data-Analysis-Python/blob/main/conclusion.png)
