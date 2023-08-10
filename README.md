@@ -38,5 +38,5 @@ Matplotlib and Seaborn were used for data visualization of the analyzed data.
 The data consists of information regarding 11,240 orders placed on an e commerce website of various houshold items during the time of diwali sale. The dataset includes 14 features ('User_Id', 'Customer_name', 'Product_ID', 'Gender', 'age','Marital_Status', 'State', 'Zone', 'Occupation', 'Product_category', 'Orders', 'Amount','Status', 'Unnamed'). Upon proper data cleaning, the dataset was reduced and feature-engineered into 13 columns with the new columns being:
 Age Group: Places the indepedent age value in a range so that we can easily plot age on graph.
 
-## Summery of Findigs
+## Summery of Findings
 ![name-of-you-image](https://github.com/Virat992/Data-Analysis-Python/blob/main/conclusion.png)
